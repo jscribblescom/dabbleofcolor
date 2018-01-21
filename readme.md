@@ -3,11 +3,11 @@
 
 WordPress theme created and designed for personal blog http://apostrophes.us - Apostrophes.us [Apostrophes.us] (http://apostrophes.us) and was build by Jamie Jones. Please respect my work and don't copy snippets of code without credit. I have over a decade plus of experience working with WordPress themes and am constantly on the look out for new ways to improve my knowledge on how to create better themes for WordPress. I appreciate any suggestions anyone might have to better this theme or to help me learn new tricks to make WordPress themes load faster and less bloated and what I want it to do for myself. So please, let me know if you have anything that you might find interesting for me to learn.!
 
-##Version 1.0 Dabble Of Color
+## Version 1.0 Dabble Of Color
 
 (http://apostrophes.us/updated-design-consideration-to-dabble-of-colors/) [Release date: January 19, 2018](http://apostrophes.us/) 
 
-######Theme includes:
+###### Theme includes:
 
 * A variety of Google Web Fonts
 * Sidebar has been removed and added to footer
