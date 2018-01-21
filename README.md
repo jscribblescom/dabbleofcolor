@@ -4,7 +4,7 @@ WordPress theme created and designed for personal blog  [Apostrophes.us](http://
 
 ## Version 1.0 Dabble Of Color
 
-(http://apostrophes.us/updated-design-consideration-to-dabble-of-colors/) [Release date: January 19, 2018](http://apostrophes.us/) 
+ [Release date: January 19, 2018](http://apostrophes.us/updated-design-consideration-to-dabble-of-colors/) 
 
 ###### Theme includes:
 
